@@ -1,7 +1,7 @@
 # MDB-Flight-Tracker
 It's a flight tracker~
 
-This is a simple app to go up flights!
+This is a simple app to look up flights!
 
 ## Features 
 
